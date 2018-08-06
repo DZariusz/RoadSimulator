@@ -1,6 +1,6 @@
 # ROAD SIMULATOR
 
-This is private project so I'm not allow to make it public. 
+This is private project so I'm not allow to make the code public. 
 
 However you can see the full working blockchain DAPP here: [road-simulator](http://dzariusz.com/road-simulator)
 
